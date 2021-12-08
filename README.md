@@ -1,5 +1,7 @@
 # Risk Analytics
-#### Python utilities for risk model / scorecard development, implementation and monitoring.  Utility code covers  
+#### Python utilities for risk model / scorecard development, implementation and monitoring.  
+
+#### Utility code covers  
 1.  Data prepration 
 2.  Extreme value treatment (EVT) 
 3.  Missing value treatment (MVT) 
